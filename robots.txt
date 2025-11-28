@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Performance optimization
-Sitemap: https://denver-siding-contractor.netlify.app/sitemap.xml
+Sitemap: https://siding.servicesdenverco.com/sitemap.xml
 
 # Block common bot traps
 Disallow: /cgi-bin/
